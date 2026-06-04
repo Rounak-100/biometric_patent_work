@@ -68,7 +68,6 @@ iris-unimodal-code.ipynb
 ```bash
 proposed-multimodal-model.ipynb
 ```
-```
 
 ---
 
